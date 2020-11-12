@@ -15,3 +15,5 @@ Ingame music by David Saphier
 
 Game ideas and direction from Baz Har Ding and Villordsuch.
 
+Game coding by me, Steve Broad.
+
