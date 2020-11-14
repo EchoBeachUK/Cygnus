@@ -28,5 +28,7 @@ The game is heavily influenced by John Hollis's Spectrum Timegate game from the 
 
 Cygnus also has elements of Star Raiders from the old 8 bit Atari.
 
+Cover text fonts use Futura font used in many Stanley Kubrick's film titles such as 2001: A Space Odyssey and Eyes Wide Shut.
+
 Please feel free to contact me at stevebroad@yahoo.com if you are interested in playing a part in the development of the source code. Who knows, perhaps this will develop into something even bigger than it is now. There is a lot of room for code compression to fit in more. 
 
