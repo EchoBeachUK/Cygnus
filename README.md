@@ -10,10 +10,19 @@ The game has been written on the Z80 assembler called Zeus which is freely downl
 
 The game was formed by a collaboration of people on social media. 
 
-Most of the graphics and loading screen by Andy Green.
+Most of the graphics and loading screen by Andy Green https://www.facebook.com/AndyGreenPixelArt/.
+
 Ingame music by David Saphier
 
-Game ideas and direction from Baz Har Ding and Villordsutch.
+Game ideas and direction from:
+
+Baz Har Ding https://www.youtube.com/channel/UCAtlgWePobtHz4AijnFCBuQ
+
+Villordsutch https://www.youtube.com/channel/UCydv4i_aI7uvmB1O6QdM2yw.
 
 Game coding by me, Steve Broad.
+
+I want to release the source code next year 2021 so that this can develop in the Z80 dev community.
+
+The game is heavily influenced by John Holli's Spectrum Timegate game from the early 80s. John has been kind enough to give me permission to use the original ideas to create Cygnus Alpha. His site is here: http://www.hollis.co.uk/john/
 
