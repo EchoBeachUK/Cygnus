@@ -24,5 +24,5 @@ Game coding by me, Steve Broad.
 
 I want to release the source code next year 2021 so that this can develop in the Z80 dev community.
 
-The game is heavily influenced by John Holli's Spectrum Timegate game from the early 80s. John has been kind enough to give me permission to use the original ideas to create Cygnus Alpha. His site is here: http://www.hollis.co.uk/john/
+The game is heavily influenced by John Hollis's Spectrum Timegate game from the early 80s. John has been kind enough to give me permission to use the original ideas to create Cygnus Alpha. His site is here: http://www.hollis.co.uk/john/
 
