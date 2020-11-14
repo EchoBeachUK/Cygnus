@@ -10,7 +10,7 @@ The game has been written on the Z80 assembler called Zeus which is freely downl
 
 The game was formed by a collaboration of people on social media. 
 
-Most of the graphics and loading screen by Andy Green https://www.facebook.com/AndyGreenPixelArt/.
+Most of the graphics, cover art and loading screen by Andy Green https://www.facebook.com/AndyGreenPixelArt/.
 
 Ingame music by David Saphier
 
