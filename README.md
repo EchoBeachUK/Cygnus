@@ -13,7 +13,7 @@ The game was formed by a collaboration of people on social media.
 Most of the graphics and loading screen by Andy Green.
 Ingame music by David Saphier
 
-Game ideas and direction from Baz Har Ding and Villordsuch.
+Game ideas and direction from Baz Har Ding and Villordsutch.
 
 Game coding by me, Steve Broad.
 
