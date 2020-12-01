@@ -34,3 +34,7 @@ Please feel free to contact me at stevebroad@yahoo.com if you are interested in 
 
 Link to coming in December video: https://www.youtube.com/watch?v=HfDiiEIRsSc
 
+This game is Beta so crashing may happen. 
+
+Lots of room for improvement and hopefully some programmers out there will be interested in modifying the code to possibly add and improve the game. The source will be available on December 31st if you are interested, please email me stevebroad@yahoo.com
+
